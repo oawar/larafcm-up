@@ -13,7 +13,7 @@ class Data
     /**
      * @internal
      *
-     * @var array
+     * @var array 
      */
     protected $data = [];
 
